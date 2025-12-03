@@ -13,3 +13,8 @@
 ```
 conda create -p venv python==3.7 -y
 ```
+
+### Model Deployment (UI/UX)
+
+    https://medical-insurance-cost-prediction-w3ui.
+    onrender.com
